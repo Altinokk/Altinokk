@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Altinokk
 - 👀 I’m interested in java and Html
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me AltunokMehmett@gmail.com
 
